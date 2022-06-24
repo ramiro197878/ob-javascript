@@ -1,3 +1,4 @@
+// ejercicio 5
 let alturaCentimetros = 182;
 let alturaMetros = 1.82;
 let pesoKilogramos = 92.5;
